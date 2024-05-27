@@ -1,9 +1,11 @@
 ##################
 1.Genome 
+##genome assembly##
+hifiasm
+verkko
+
+
 circos
-
-
-
 
 
 
